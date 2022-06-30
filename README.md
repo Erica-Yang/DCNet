@@ -1,3 +1,5 @@
+### This repo is forked only for self-learning, thanks for author sharing.
+
 # Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection, CVPR 2021
 
 Our code is based on  [https://github.com/facebookresearch/maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) and developed with Python 3.6.5 & PyTorch 1.1.0.
